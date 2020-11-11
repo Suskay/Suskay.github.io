@@ -33,7 +33,7 @@ function Circle(x, y, s) {
   this.g = 0;
   this.b = 0;
 
-  this.lifespan = 300;
+  this.lifespan = 100;
 
   this.ellipse = function () {
     
