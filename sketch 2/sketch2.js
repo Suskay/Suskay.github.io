@@ -2,6 +2,7 @@ var circles = []; //array to hold all circles
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
+  frameRate(30);
 }
 
 function draw() {
